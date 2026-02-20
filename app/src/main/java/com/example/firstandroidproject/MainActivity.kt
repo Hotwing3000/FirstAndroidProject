@@ -58,7 +58,6 @@ data class DiceUiState(
     val firstDieValue: Int? = null,
     val secondDieValue: Int? = null,
     val numberOfRolls: Int = 0,
-
 )
 
 // Logic: Handles how the data changes
